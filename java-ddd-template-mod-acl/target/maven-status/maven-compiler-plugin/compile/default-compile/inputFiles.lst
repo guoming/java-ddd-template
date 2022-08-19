@@ -1,0 +1,8 @@
+/Users/guoming/Workspace/Codes/github.com/guoming/java-ddd-template/java-ddd-template-mod-acl/src/main/java/com/example/ddd/acl/adapter/repository/user/mapper/userMapper.java
+/Users/guoming/Workspace/Codes/github.com/guoming/java-ddd-template/java-ddd-template-mod-acl/src/main/java/com/example/ddd/acl/port/repository/user/po/userAccount.java
+/Users/guoming/Workspace/Codes/github.com/guoming/java-ddd-template/java-ddd-template-mod-acl/src/main/java/com/example/ddd/acl/port/repository/user/userRepository.java
+/Users/guoming/Workspace/Codes/github.com/guoming/java-ddd-template/java-ddd-template-mod-acl/src/main/java/com/example/ddd/acl/port/repository/user/po/user.java
+/Users/guoming/Workspace/Codes/github.com/guoming/java-ddd-template/java-ddd-template-mod-acl/src/main/java/com/example/ddd/acl/port/repository/user/po/userAddress.java
+/Users/guoming/Workspace/Codes/github.com/guoming/java-ddd-template/java-ddd-template-mod-acl/src/main/java/com/example/ddd/acl/adapter/repository/user/mapper/userAccountMapper.java
+/Users/guoming/Workspace/Codes/github.com/guoming/java-ddd-template/java-ddd-template-mod-acl/src/main/java/com/example/ddd/acl/adapter/repository/user/userRepositoryImpl.java
+/Users/guoming/Workspace/Codes/github.com/guoming/java-ddd-template/java-ddd-template-mod-acl/src/main/java/com/example/ddd/acl/adapter/repository/user/mapper/userAddressMapper.java
